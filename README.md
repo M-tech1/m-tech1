@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-<!-- [![MasterHead](https://media.licdn.com/dms/image/D4D16AQHOQj31E5baAA/profile-displaybackgroundimage-shrink_350_1400/0/1673969581674?e=1685577600&v=beta&t=hs1dSzR9mhsVwO73zipTkxD-fKlC8SgU8dhb_qXuMK0)](https://github.com/USERNAME) -->
+[![MasterHead](https://media.licdn.com/dms/image/D4D16AQEuzCK6ITUhPg/profile-displaybackgroundimage-shrink_350_1400/0/1680213499685?e=1685577600&v=beta&t=upoBQEjTRLJQhLdrgWGZf2anw5uZcYyw-jmFkCwnmOs)](https://github.com/USERNAME)
 <h1 align="center">Hi 👋, welcome to my page </h1>
 <h3 align="center">i'm a passionate Frontend/Mobile developer </h3>
 
