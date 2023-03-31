@@ -37,10 +37,7 @@ Here are some ideas to get you started:
 
 
 
-
-
-
-<img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif">
+<img align="right" alt="Coding" width="150" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif">
 
 
 - 🌱 I’m currently learning **Flutter and React Native**
