@@ -41,7 +41,6 @@ Here are some ideas to get you started:
 
 
 - 🌱 I’m currently learning **FinTech Solutions**
-- 
 <!-- - 👯 I’m looking to collaborate on **any mobile app project** -->
 - 👯 I’m looking to collaborate on Flutter and React Native
 - 💬 Ask me about **App monetization & Google Adsense**
