@@ -39,14 +39,12 @@ Here are some ideas to get you started:
 
 <img align="right" alt="Coding" width="150" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif">
 
-
 - 🌱 I’m currently learning **FinTech Solutions & Mobile Apps**
 - 👯 I’m looking to collaborate on fintech / web3 projects
 - 💬 Ask me about **App monetization & Google Adsense**
 - ⚡ Fun fact **i love to do live music/play my guitar and Play table tennis too...**
 
 <!-- - 📄 Know about my experiences [https://docs.google.com/document/d/1g8x3thI0eYVWMQkY_HXNtEtdjzcL2mXOW33PTDx7qgM/edit?usp=sharing](https://docs.google.com/document/d/1g8x3thI0eYVWMQkY_HXNtEtdjzcL2mXOW33PTDx7qgM/edit?usp=sharing) -->
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
