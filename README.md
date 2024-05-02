@@ -63,8 +63,10 @@ Here are some ideas to get you started:
  <span>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
  </span>
+
+ <span>
+ <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://a.storyblok.com/f/88751/512x512/3fd17e7d63/typescript_logo_2020.svg" alt="typescript" width="40" height="40"/> </a>           </span>
  
- <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://a.storyblok.com/f/88751/512x512/3fd17e7d63/typescript_logo_2020.svg" alt="typescript" width="40" height="40"/> </a>                                                                                                                                                                                                     
  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQMAgy_XeSr2CmOITAysaZtDxsVUSTSYtSM2EKE5ivhg&s" alt="c" width="40" height="40"/> </a>
