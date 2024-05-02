@@ -61,11 +61,13 @@ Here are some ideas to get you started:
 
 <div align="left" >
  <span>
+ <span>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
  </span>
 
  <span>
  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://a.storyblok.com/f/88751/512x512/3fd17e7d63/typescript_logo_2020.svg" alt="typescript" width="40" height="40"/> </a>           </span>
+
  
  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 
@@ -82,10 +84,16 @@ Here are some ideas to get you started:
  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
 
  <a href="https://www.cypress.io/" target="_blank" rel="noreferrer"> <img src="https://www.cypress.io/_astro/navbar-brand.D87396b0.svg" alt="cypress" width="40" height="40"/> </a> 
- 
- <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/></a> 
 
+ <div>
+   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/></a>
+ </div>
+ 
+
+
+</span>
 </div>
+
 
 
 
